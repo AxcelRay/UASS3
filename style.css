@@ -1,0 +1,21 @@
+img.hij {
+    border-radius: 50%;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+}
+
+.toolbar-axcel {
+    background-color: #5d6266;
+}
+
+.my-cv {
+    color: aliceblue;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+#jpr1 {
+    padding: 20px;
+    font-size: larger;
+    font-weight: bold;
+}
